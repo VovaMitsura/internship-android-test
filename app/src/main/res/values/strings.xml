@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">intership-android-test</string>
+    <string name="clicks_count">Clicks Count</string>
+    <string name="go_to_the_fragment">Go to the fragment</string>
+    <string name="go_to_fragment">Go To Fragment</string>
+    <string name="back">back</string>
+    <string name="click_me">Click Me</string>
 </resources>
